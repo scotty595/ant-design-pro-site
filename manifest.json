@@ -1,4 +1,8 @@
 {
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map"
+  "main.js.map": "render-page.js.map",
+  "static/Readiness.png": "static/Readiness-da71d83bbcefc2a63e9f62bf6345c979.png",
+  "static/Sizing Wizard.png": "static/Sizing Wizard-84a8d2393d79ce482ec0f88a9ffebe45.png",
+  "static/Snapshot.png": "static/Snapshot-04809ce68a3da392f9c51379bcdc939f.png",
+  "static/full-logo.png": "static/full-logo-2493686f19cb222ed1486649dc1e4777.png"
 }
